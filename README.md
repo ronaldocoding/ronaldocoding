@@ -1,4 +1,4 @@
-## Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Eu sou [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/) 
+## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Eu sou [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/) 
 ### Sobre mim 🤗
 - 👨‍🎓 Graduando em Sistemas de Informação e Técnico em Informática
 - 💻 Atualmente estou trabalhando com Teste de Software no Centro de Tecnologia Professor Harlan Julu Guerra Marcelice
