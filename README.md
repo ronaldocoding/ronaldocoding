@@ -1,7 +1,7 @@
 ## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/) 
 ### Sobre mim 🤗
-- 👨‍🎓 Graduando em Sistemas de Informação na Universidade do Estado do Amazonas
-- 💻 Atualmente estou trabalhando como Android Software Enginner Intern no iFood
+- 👨‍🎓 Graduando em Sistemas de Informação na Escola Superior de Tecnologia da Universidade do Estado do Amazonas
+- 🤖 Atualmente estou trabalhando como Android Software Developer Intern no iFood
 - 📚 Estudando Desenvolvimento Android
 - 😎 Pronomes: ele/dele
 
