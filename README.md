@@ -12,7 +12,7 @@
 
 ##
 
-### My stats 🎲
+### My stats 📈
 <div>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ronaldocoding&theme=dracula"/>
   <a href="https://github.com/ronaldocoding">
