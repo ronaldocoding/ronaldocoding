@@ -1,7 +1,7 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/) 
 ### About me 🤗
 - 👨‍🎓 I'm an Information Systems Graduating Student at [Superior School of Technology](https://est.uea.edu.br/) at the [Amazonas State University](https://www2.uea.edu.br/)
-- 🤖 Currently, I'm working as an Android Software Developer Intern at [iFood](https://institucional.ifood.com.br/)
+- 💼 Currently, I'm working as an Android Software Developer Intern at [iFood](https://institucional.ifood.com.br/)
 - 📚 My time is being spent learning Native Android Development (Kotlin/Java)
 - 😎 Pronouns: He/Him
 
@@ -37,7 +37,7 @@
   
   ##
   
-  ### Languages and tools that I'm working on 🛠
+  ### Languages and tools that I'm working on ⚙️
  <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
