@@ -1,9 +1,16 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/) 
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/)
+
+<img align="right" src="late-nigth-programmer.gif" width="400">
+
 ### About me 🤗
 - 👨‍🎓 I'm an Information Systems Graduating Student at [Superior School of Technology](https://est.uea.edu.br/) at the [Amazonas State University](https://www2.uea.edu.br/)
+<br></br>
 - 💼 Currently, I'm working as an Android Software Developer Intern at [iFood](https://institucional.ifood.com.br/)
+<br></br>
 - 📚 My time is being spent learning Native Android Development (Kotlin/Java)
+<br></br>
 - 😎 Pronouns: He/Him
+<br></br>
 
 ##
 
