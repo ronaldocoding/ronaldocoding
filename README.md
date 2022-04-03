@@ -3,7 +3,7 @@
 <img align="right" src="late-nigth-programmer.gif" width="400">
 
 ### About me 🤗
-- 👨‍🎓 I'm an Information Systems Graduating Student at [Superior School of Technology](https://est.uea.edu.br/) at the [Amazonas State University](https://www2.uea.edu.br/)
+- 👨‍🎓 I'm an Information Systems Graduating Student at the [Amazonas State University](https://www2.uea.edu.br/)
 <br></br>
 - 💼 Currently, I'm working as an Android Software Developer Intern at [iFood](https://institucional.ifood.com.br/)
 <br></br>
