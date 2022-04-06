@@ -21,11 +21,11 @@
 
 ### My stats 📈
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ronaldocoding&theme=dracula"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ronaldocoding&theme=dracula"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ronaldocoding&theme=dracula"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ronaldocoding&theme=dracula"/>
   <a href="https://github.com/ronaldocoding">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldocoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocoding&layout=compact&langs_count=7&theme=dracula" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldocoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocoding&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
  ##
