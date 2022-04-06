@@ -26,8 +26,10 @@
   <a href="https://github.com/ronaldocoding">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldocoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocoding&layout=compact&langs_count=7&theme=dracula" />
+</div>
+   
+<div>
   <img width="360" src="https://github-profile-trophy.vercel.app/?username=ronaldocoding&theme=dracula&column=3&row=2" />
-
 </div>
 
  ##
