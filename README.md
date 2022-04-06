@@ -29,7 +29,7 @@
 </div>
    
 <div>
-  <img width="360" src="https://github-profile-trophy.vercel.app/?username=ronaldocoding&theme=dracula&column=3&row=2" />
+  <img width="368" src="https://github-profile-trophy.vercel.app/?username=ronaldocoding&theme=dracula&column=3&row=2" />
 </div>
 
  ##
