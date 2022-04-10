@@ -33,10 +33,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocoding&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
 </div>
    
-<div>
-  <img width="368" src="https://github-profile-trophy.vercel.app/?username=ronaldocoding&theme=dracula&column=3&row=2&no-frame=true" />
-</div>
-
  ##
  
  ### Languages and tools that I worked on 🛠
