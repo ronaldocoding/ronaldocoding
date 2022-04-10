@@ -11,7 +11,6 @@ class Me(
     private var focus: String,
     private val pronouns: String
 ) {
-
     fun whoIAm(): String {
         return " 👨🏻‍💻 My name is $name \n" +
                 " 🎓 I'm a(n) $course Graduating Student at the $university \n" +
