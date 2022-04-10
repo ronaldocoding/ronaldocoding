@@ -1,17 +1,6 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/)
 
-<img src="late-nigth-programmer.gif">
-
-### About me 🤗
-<!-- 👨‍🎓 I'm an Information Systems Graduating Student at the [Amazonas State University](https://www2.uea.edu.br/)
-<br></br>
-- 💼 Currently, I'm working as an Android Software Developer Intern at [iFood](https://institucional.ifood.com.br/)
-<br></br>
-- 📚 My time is being spent learning Native Android Development (Kotlin/Java)
-<br></br>
-- 😎 Pronouns: He/Him
-<br></br>-->
-
+### Code snippet about me 🤗
 ```kotlin
 class Me(
     private val name: String,
@@ -24,11 +13,11 @@ class Me(
 ) {
 
     fun whoIAm(): String {
-        return " 👨🏻‍💻 My name is $name." +
-                " 🎓 I'm a(n) $course Graduating Student at the $university." +
-                " 💼 Currently, I'm working as a(n) $job at $company." +
-                " 📚 My time is being spent learning $focus." +
-                " 😎 Pronouns: $pronouns."
+        return " 👨🏻‍💻 My name is $name \n" +
+                " 🎓 I'm a(n) $course Graduating Student at the $university \n" +
+                " 💼 Currently, I'm working as a(n) $job at $company \n" +
+                " 📚 My time is being spent learning $focus \n" +
+                " 😎 Pronouns: $pronouns"
     }
 }
 
@@ -47,6 +36,14 @@ fun main() {
 }
 ```
 
+### Output
+```
+ 👨🏻‍💻 My name is Ronaldo Costa de Freitas 
+ 🎓 I'm a(n) Information Systems Graduating Student at the Amazonas State University 
+ 💼 Currently, I'm working as a(n) Android Software Developer Intern at iFood 
+ 📚 My time is being spent learning Native Android Development (Kotlin/Java) 
+ 😎 Pronouns: He/Him
+```
 ##
 
 ### My top open source projects 🚀
