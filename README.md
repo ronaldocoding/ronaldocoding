@@ -16,10 +16,10 @@
 
 ### My top open source projects 🚀
 <p align="left">
-    <a href="https://github.com/ronaldocoding/ipc-python"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=ipc-python&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="ipc-python"></a>
-   <a href="https://github.com/ronaldocoding/DevFinder"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=DevFinder&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="DevFinder"></a>
-   <a href="https://github.com/ronaldocoding/pchunter"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=pchunter&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="pchunter"></a>
-   <a href="https://github.com/ronaldocoding/breakout-game"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=breakout-game&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="breakout-game"></a>
+    <a href="https://github.com/ronaldocoding/ipc-python"><img height="200em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=ipc-python&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="ipc-python"></a>
+   <a href="https://github.com/ronaldocoding/DevFinder"><img height="200em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=DevFinder&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="DevFinder"></a>
+   <a href="https://github.com/ronaldocoding/pchunter"><img height="200em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=pchunter&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="pchunter"></a>
+   <a href="https://github.com/ronaldocoding/breakout-game"><img height="200em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=breakout-game&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="breakout-game"></a>
 </p>
 
 ##
