@@ -1,16 +1,51 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/)
 
-<img align="right" src="late-nigth-programmer.gif" width="400">
+<img src="late-nigth-programmer.gif">
 
 ### About me 🤗
-- 👨‍🎓 I'm an Information Systems Graduating Student at the [Amazonas State University](https://www2.uea.edu.br/)
+<!-- 👨‍🎓 I'm an Information Systems Graduating Student at the [Amazonas State University](https://www2.uea.edu.br/)
 <br></br>
 - 💼 Currently, I'm working as an Android Software Developer Intern at [iFood](https://institucional.ifood.com.br/)
 <br></br>
 - 📚 My time is being spent learning Native Android Development (Kotlin/Java)
 <br></br>
 - 😎 Pronouns: He/Him
-<br></br>
+<br></br>-->
+
+```kotlin
+class Me(
+    private val name: String,
+    private var course: String,
+    private var university: String,
+    private var job: String,
+    private var company: String,
+    private var focus: String,
+    private val pronouns: String
+) {
+
+    fun whoIAm(): String {
+        return " 👨🏻‍💻 My name is $name." +
+                " 🎓 I'm a(n) $course Graduating Student at the $university." +
+                " 💼 Currently, I'm working as a(n) $job at $company." +
+                " 📚 My time is being spent learning $focus." +
+                " 😎 Pronouns: $pronouns."
+    }
+}
+
+fun main() {
+    val ronaldo = Me(
+        name = "Ronaldo Costa de Freitas",
+        course = "Information Systems",
+        university = "Amazonas State University",
+        job = "Android Software Developer Intern",
+        company = "iFood",
+        focus = "Native Android Development (Kotlin/Java)",
+        pronouns = "He/Him"
+    )
+    
+    println(ronaldo.whoIAm())
+}
+```
 
 ##
 
