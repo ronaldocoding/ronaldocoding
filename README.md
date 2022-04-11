@@ -1,6 +1,6 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/)
+# Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/)
 
-### Code snippet about me 🤗
+## Code snippet about me 🤗
 ```kotlin
 class Me(
     private val name: String,
@@ -35,7 +35,7 @@ fun main() {
 }
 ```
 
-#### Output
+### Output
 ```
  👨🏻‍💻 My name is Ronaldo Costa de Freitas 
  🎓 I'm a(n) Information Systems Graduating Student at the Amazonas State University 
@@ -45,7 +45,7 @@ fun main() {
 ```
 ##
 
-### My top open source projects 🚀
+## My top open source projects 🚀
 <p align="left">
     <a href="https://github.com/ronaldocoding/ipc-python"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=ipc-python&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="ipc-python"></a>
    <a href="https://github.com/ronaldocoding/DevFinder"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ronaldocoding&repo=DevFinder&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="DevFinder"></a>
@@ -55,7 +55,7 @@ fun main() {
 
 ##
 
-### My stats 📈
+## My stats 📈
 <div>
    <a href="https://wakatime.com/@ronaldocoding"><img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ronaldocoding&theme=dracula&background_color=272A36&hide_border=true"/></a>
   <a href="https://github.com/ronaldocoding"><img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ronaldocoding&theme=dracula&hide_border=true"/></a>
@@ -65,7 +65,7 @@ fun main() {
    
  ##
  
- ### Languages and tools that I worked on 🛠
+ ## Languages and tools that I worked on 🛠
  <div style="display: inline_block">
     <a href="https://developer.mozilla.org/en-US/docs/web/html"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -77,7 +77,7 @@ fun main() {
   
   ##
   
-  ### Languages and tools that I'm working on ⚙️
+  ## Languages and tools that I'm working on ⚙️
  <div style="display: inline_block">
   <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
@@ -90,7 +90,7 @@ fun main() {
   
   ##
 
-### How to find me 🔍
+## How to find me 🔍
 <div> 
   <a href = "mailto:ronaldocosta.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronaldocoding" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
