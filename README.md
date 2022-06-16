@@ -1,4 +1,4 @@
-# Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/)
+# Hello  👋🏼, I am [Ronaldo Costa](https://www.linkedin.com/in/ronaldocoding/)
 
 ## Code snippet about me 🤗
 ```kotlin
