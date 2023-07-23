@@ -53,7 +53,7 @@ fun main() {
 
 ## My stats 📈
 <div>
-   <a href="https://wakatime.com/@ronaldocoding"><img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ronaldocoding&theme=dracula&background_color=272A36&hide_border=true"/></a>
+   <a href="https://wakatime.com/@ronaldocoding"><img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ronaldocoding&theme=dracula&background_color=272A36&hide_border=true"/></a>
   <a href="https://github.com/ronaldocoding"><img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ronaldocoding&theme=dracula&hide_border=true"/></a>
   <a href="https://github.com/ronaldocoding"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=ronaldocoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/></a>
   <a href="https://github.com/ronaldocoding"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocoding&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></a>
