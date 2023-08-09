@@ -54,7 +54,7 @@ fun main() {
 ## My stats 📈
 <div align=left>
    <a href="https://wakatime.com/@ronaldocoding"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ronaldocoding&theme=dracula&background_color=272A36&hide_border=true"/></a>
-  <a href="https://github.com/ronaldocoding"><img src="http://github-readme-streak-stats.herokuapp.com?user=ronaldocoding&theme=dracula&hide_border=true"/></a>
+  <!--<a href="https://github.com/ronaldocoding"><img src="http://github-readme-streak-stats.herokuapp.com?user=ronaldocoding&theme=dracula&hide_border=true"/></a>-->
   <a href="https://github.com/ronaldocoding"><img width="495em" src="https://github-readme-stats.vercel.app/api?username=ronaldocoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/></a>
   <a href="https://github.com/ronaldocoding"><img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocoding&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></a>
 </div>
@@ -64,8 +64,6 @@ fun main() {
   <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <a href="https://dev.java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="https://www.geeksforgeeks.org/c-programming-language/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   
  </div>
