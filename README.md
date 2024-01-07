@@ -39,7 +39,7 @@ fun main() {
 ```
  👨🏻‍💻 My name is Ronaldo Costa de Freitas 
  🎓 I'm a(n) Information Systems Graduating Student at the Amazonas State University 
- 💼 Currently, I'm working as a(n) Android Software Developer Intern at iFood 
+ 💼 Currently, I'm working as a(n) Android Software Developer at iFood 
  📚 My time is being spent learning Native Android Development (Kotlin/Java) 
  😎 Pronouns: He/Him
 ```
