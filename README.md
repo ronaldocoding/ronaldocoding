@@ -25,7 +25,7 @@ fun main() {
         name = "Ronaldo Costa de Freitas",
         course = "Information Systems",
         university = "Amazonas State University",
-        job = "Android Software Developer Intern",
+        job = "Android Software Developer",
         company = "iFood",
         focus = "Native Android Development (Kotlin/Java)",
         pronouns = "He/Him"
